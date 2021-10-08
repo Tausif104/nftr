@@ -1,0 +1,42 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #030a34;
+}
+
+header {
+  position: absolute;
+  width: 100%;
+}
+
+.banner {
+  height: 100vh !important;
+}
+
+.banner-shape-left {
+  left: 0;
+}
+
+.banner-shape-right {
+  right: 0;
+}
+
+.banner-shape {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.text-green {
+  color: #3fecc6;
+}
+
+.text-pink {
+  color: #fc4ba3;
+}
+
+.text-blue {
+  color: #0955ce;
+}
